@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>rsc/brush.png</file>
+        <file>rsc/erase.png</file>
+        <file>rsc/pencil.png</file>
+        <file>rsc/shapes.png</file>
+        <file>rsc/text-font.png</file>
+        <file>rsc/color-palette.png</file>
+        <file>rsc/create.png</file>
+        <file>rsc/open.png</file>
+        <file>rsc/save.png</file>
+        <file>rsc/curve.png</file>
+        <file>rsc/ellipse.png</file>
+        <file>rsc/line.png</file>
+        <file>rsc/rectangle.png</file>
+        <file>rsc/square.png</file>
+        <file>rsc/polygon.png</file>
+        <file>rsc/main.ico</file>
+    </qresource>
+</RCC>
