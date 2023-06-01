@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>character/Reaper.png</file>
+        <file>character/Ale.png</file>
+        <file>character/Baby_Dinosaur_(pet).png</file>
+        <file>character/Black_Cat.png</file>
+        <file>character/Corgi.png</file>
+        <file>character/Cyborg.png</file>
+        <file>character/Paladin.png</file>
+        <file>character/Pet_Lizard.png</file>
+        <file>character/Pirate.png</file>
+        <file>character/Ray_Gunner.png</file>
+        <file>character/Teacup.png</file>
+        <file>character/Katana.png</file>
+        <file>character/Target_Dummy.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+release/attack.o
+release/battlefield.o
+release/main.o
+release/mainwindow.o
+release/selectcharatcer.o
+release/target.o
+release/qrc_resource.o
+release/moc_attack.o
+release/moc_battlefield.o
+release/moc_mainwindow.o
+release/moc_selectcharatcer.o
+release/moc_target.o

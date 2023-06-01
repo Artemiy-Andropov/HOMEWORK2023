@@ -1,0 +1,12 @@
+debug/attack.o
+debug/battlefield.o
+debug/main.o
+debug/mainwindow.o
+debug/selectcharatcer.o
+debug/target.o
+debug/qrc_resource.o
+debug/moc_attack.o
+debug/moc_battlefield.o
+debug/moc_mainwindow.o
+debug/moc_selectcharatcer.o
+debug/moc_target.o
